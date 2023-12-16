@@ -1,0 +1,11 @@
+jars/saves
+jars/stats
+jars/world
+jars/option.txt
+
+jars\saves
+jars\stats
+jars\world
+jars\option.txt
+
+*.log
